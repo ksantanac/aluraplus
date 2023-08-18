@@ -31,7 +31,7 @@ Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou cor
 2. Crie um branch para a sua nova feature ou correção;
 3. Faça suas alterações e commit;
 4. Faça push para o seu fork;
-5. 5. Abra um pull request no repositório original.
+5. Abra um pull request no repositório original.
 
 ## Como Usar
 
