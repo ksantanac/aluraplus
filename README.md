@@ -6,6 +6,8 @@ O Alura Plus é um projeto desenvolvido em HTML e CSS que oferece informações 
 
 ![pag1](https://github.com/ksantanac/aluraplus/assets/127277943/dafabf39-66e9-4d73-9b1c-14e38e247aaf)
 
+![pag2](https://github.com/ksantanac/aluraplus/assets/127277943/c8cacb71-9a5f-4f27-aaae-0c7c64cbf805)
+
 
 
 ## Combo Alura Plus
