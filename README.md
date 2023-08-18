@@ -27,5 +27,5 @@ O Alura Plus foi projetado para ser compatível com uma variedade de dispositivo
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções para o Alura Plus, siga as etapas mencionadas no arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções para o Alura Plus, siga as etapas mencionadas.
 
